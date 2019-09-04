@@ -3,41 +3,41 @@
         "services": [
             {
                 "type": "30 min Touch Up",
-                "price": 2
+                "price": 25
             },
             {
                 "type": "Full set of Eyelash Extensions",
-                "price": 4
+                "price": 200
             },
             {
                 "type": "Lash Refill",
-                "price": 6
+                "price": 25
             },
             {
                 "type": "EyeLash Extension Removal",
-                "price": 8
+                "price": 25
             },
             {
                 "type": "New Guest Eyelash Extension",
-                "price": 10
+                "price": 150
             }
         ],
         "addon": [
             {
                 "type": "3D Classic Volume Full Set",
-                "price": 6
+                "price": 60
             },
             {
                 "type": "3D Classic Volume Full Set Refill",
-                "price": 4
+                "price": 30
             },
             {
-                "type": "6D Glam Volume Full Set",
-                "price": 8
+                "type": "Glam Volume Full Set",
+                "price": 60
             },
             {
-                "type": "6D Glam Volume Full Set Refill",
-                "price": 5
+                "type": "Glam Volume Full Set Refill",
+                "price": 30
             }
         ],
         "stylish": [

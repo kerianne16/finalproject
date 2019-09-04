@@ -4,7 +4,7 @@ class ErrorPage extends React.Component {
   render() {
     return (
       <div className="container">
-        <h4>Error: page not found</h4>
+        <h4>Follow Us on Instagram</h4>
       </div>
     );
   }
