@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+/*import React, { Component } from 'react';
 
 class ErrorPage extends React.Component {
   render() {
@@ -10,4 +10,4 @@ class ErrorPage extends React.Component {
   }
 }
 
-export default ErrorPage;
+export default ErrorPage; */
