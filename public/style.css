@@ -2,7 +2,7 @@
 html {height: auto; width: auto; margin: 0px; padding: 0px;}
 body {height: auto; width: auto; margin: 0px; padding: 0px;}
 
-h1 {color: #111111;}
+h1 {color: #111111; font-size: 4.5rem;}
 h1 {font-family: 'Abril Fatface'; text-align: center; font-size: 80px;}
 h2 {font-family: 'Abril Fatface'; text-align: center; font-size: 40px;}
 
@@ -75,7 +75,7 @@ padding: 0;
 margin: 0;
 opacity: 0.5;
 filter: alpha(opacity=50);
-background-image: url(../images/marbleOne.jpg);
+background-image: url(../images/lightpinkmarble.jpg);
 }
 .gradient_red_yellow {
 background: #FF4136; /* For browsers that do not support gradients */
@@ -84,7 +84,7 @@ background: -o-linear-gradient(65deg, #FF4136, #FFDC00); /* For Opera 11.1 to 12
 background: -moz-linear-gradient(65deg, #FF4136, #FFDC00); /* For Firefox 3.6 to 15 */
 background: linear-gradient(65deg, #FF4136, #FFDC00);
 
-background-image: url(../images/marbleOne.jpg);
+background-image: url(../images/lightpinkmarble.jpg);
  /* Standard syntax */
 }
 
@@ -95,7 +95,7 @@ background: -o-linear-gradient(65deg, #85144b, #7FDBFF); /* For Opera 11.1 to 12
 background: -moz-linear-gradient(65deg, #85144b, #7FDBFF); /* For Firefox 3.6 to 15 */
 background: linear-gradient(65deg, #85144b, #7FDBFF); /* Standard syntax */
 
-background-image: url(../images/marbleOne.jpg);
+background-image: url(../images/lightpinkmarble.jpg);
 }
 
 .gradient_green_yellow {
@@ -105,7 +105,7 @@ background: -o-linear-gradient(65deg, #3D9970, #FFDC00); /* For Opera 11.1 to 12
 background: -moz-linear-gradient(65deg, #3D9970, #FFDC00); /* For Firefox 3.6 to 15 */
 background: linear-gradient(65deg, #3D9970, #FFDC00); /* Standard syntax */
 
-background-image: url(../images/marbleOne.jpg);
+background-image: url(../images/lightpinkmarble.jpg);
 }
 
 .text_grad_purple_yellow {
