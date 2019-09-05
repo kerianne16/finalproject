@@ -13,4 +13,4 @@ body, html { margin: 0; padding: 0; }
 .user-data span{ display: block; margin: 5px 0 0 0;}
 .selectedlist h6{ margin-top: 15px;}
 
-header{ background: #ccc; padding: 25px; text-align: center; color: #fff;}
+header{ background-image: url(../images/marbleOne.jpg);; padding: 25px; text-align: center; color: #fff;}
