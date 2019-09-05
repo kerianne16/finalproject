@@ -10,7 +10,7 @@ class Main extends Component {
                 <header>
                     <h3>Book with Bombshell Beauty</h3>
                     <NavLink to="/login">Login/Sign Up</NavLink>
-                    <Login />
+
                 </header>
             </div>
         )
